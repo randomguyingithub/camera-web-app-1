@@ -18,7 +18,7 @@ Style the element with id="take-photo-button"
 */
 #take-photo-button{
     position: fixed;
-    bottom: 30px;
+    bottom: 10px;
     /*width: 100%;*/
 }
 
@@ -51,6 +51,7 @@ Class "photo-taken", which is added to "cameraOutput" in file "app.js"
     padding: 15px 20px;
     text-align: center;
     left: calc(50% - 150px);
+    bottom: 100px;
 }
 /*
 Style the element with id="camera-view", "camera-device", "photo-display"
